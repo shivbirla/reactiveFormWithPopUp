@@ -1,0 +1,67 @@
+{
+  "productList": [
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "date": "2023-03-01T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "yellows",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Electronics",
+      "date": "2023-03-02T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 25000,
+      "comment": "Best",
+      "id": 2
+    },
+    {
+      "productName": "Bata",
+      "category": "Shoes",
+      "date": "2023-02-28T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 3400,
+      "id": 3
+    },
+    {
+      "productName": "Siyarams",
+      "category": "Closes",
+      "date": "2023-03-21T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 3400,
+      "comment": "Good",
+      "id": 4
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "date": "2023-03-29T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "price": 45,
+      "comment": "Owsom",
+      "id": 5
+    },
+    {
+      "productName": "trimmer",
+      "category": "Electronics",
+      "date": "2023-03-08T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 456,
+      "comment": "",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
